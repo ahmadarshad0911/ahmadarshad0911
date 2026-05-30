@@ -44,12 +44,22 @@ const ahmad = {
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadarshad0911&show_icons=true&count_private=true&hide_border=true&title_color=b8260f&icon_color=b8260f&text_color=0c0a08&bg_color=f4ede1" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadarshad0911&hide_border=true&background=f4ede1&ring=b8260f&fire=b8260f&currStreakLabel=0c0a08&sideLabels=0c0a08&dates=6c6356&sideNums=0c0a08&currStreakNum=b8260f" alt="streak" />
+  <img src="https://img.shields.io/github/stars/ahmadarshad0911?style=for-the-badge&label=Stars&labelColor=0c0a08&color=b8260f" alt="stars" />
+  <img src="https://img.shields.io/github/followers/ahmadarshad0911?style=for-the-badge&label=Followers&labelColor=0c0a08&color=b8260f" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-b8260f?style=for-the-badge&labelColor=0c0a08" alt="focus" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarshad0911&layout=compact&hide_border=true&title_color=b8260f&text_color=0c0a08&bg_color=f4ede1&langs_count=8" alt="top langs" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ahmadarshad0911&hide_border=true&background=f4ede1&ring=b8260f&fire=b8260f&currStreakLabel=0c0a08&sideLabels=0c0a08&dates=6c6356&sideNums=0c0a08&currStreakNum=b8260f&stroke=0c0a08&ticks=6c6356" alt="streak" />
+</p>
+
+#### Most-used languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0c0a08" alt="js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 </p>
 
 ---
