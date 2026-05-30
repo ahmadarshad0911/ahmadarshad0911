@@ -54,14 +54,6 @@ const ahmad = {
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadarshad0911&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
----
-
 ### 🐍 Contribution Graph
 
 <p align="center">
