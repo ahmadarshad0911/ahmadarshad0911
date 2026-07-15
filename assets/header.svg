@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Ahmad Arshad — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b8260f"/>
+      <stop offset="55%" stop-color="#5a1408"/>
+      <stop offset="100%" stop-color="#0c0a08"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0c0a08" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#0c0a08" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="240" fill="url(#bg)"/>
+
+  <!-- layered waves at the bottom -->
+  <path d="M0 190 C 180 150, 320 230, 500 195 S 840 150, 1000 195 L1000 240 L0 240 Z" fill="#0c0a08" opacity="0.30"/>
+  <path d="M0 210 C 200 180, 360 245, 540 212 S 860 178, 1000 212 L1000 240 L0 240 Z" fill="#0c0a08" opacity="0.55"/>
+  <rect width="1000" height="240" fill="url(#wave)"/>
+
+  <!-- name -->
+  <text x="500" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="66" font-weight="800" fill="#f4ede1" letter-spacing="1.5">Ahmad Arshad</text>
+
+  <!-- divider -->
+  <rect x="410" y="132" width="180" height="2" rx="1" fill="#f4ede1" opacity="0.55"/>
+
+  <!-- role -->
+  <text x="500" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="600" fill="#f4ede1" opacity="0.92" letter-spacing="1">Software Engineer &#183; Full-Stack Web &#183; Backend &amp; QA</text>
+</svg>
