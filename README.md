@@ -3,13 +3,9 @@
 <!--  Palette: arterial red #b8260f · coffee-black #0c0a08 · ivory #f4ede1 -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=AHMAD%20ARSHAD&fontSize=68&fontColor=f4ede1&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20-%20Backend%20-%20LLM%20Products&descSize=18&descColor=b8260f&descAlignY=55&stroke=b8260f&strokeWidth=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=AHMAD%20ARSHAD&fontSize=68&fontColor=0c0a08&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20-%20Backend%20-%20LLM%20Products&descSize=18&descColor=b8260f&descAlignY=55&stroke=b8260f&strokeWidth=1">
-    <img alt="Ahmad Arshad" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=AHMAD%20ARSHAD&fontSize=68&fontColor=f4ede1&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20-%20Backend%20-%20LLM%20Products&descSize=18&descColor=b8260f&descAlignY=55&stroke=b8260f&strokeWidth=1" width="100%" />
-  </picture>
-</p>
+<a href="https://github.com/ahmadarshad0911">
+  <img width="100%" alt="Ahmad Arshad" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8260f,100:0c0a08&height=230&section=header&text=Ahmad%20Arshad&fontColor=f4ede1&fontSize=64&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Backend%20%C2%B7%20LLM%20Products&descAlignY=58&descSize=18&descColor=f4ede1&animation=fadeIn" />
+</a>
 
 <p align="center">
   <a href="https://github.com/ahmadarshad0911">
@@ -137,8 +133,17 @@ A deployed web app that reads a startup contract like senior counsel: upload →
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadarshad0911&show_icons=true&hide_border=true&title_color=b8260f&icon_color=b8260f&text_color=6c6356&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadarshad0911&layout=compact&hide_border=true&title_color=b8260f&text_color=6c6356&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadarshad0911&theme=github_dark" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadarshad0911&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadarshad0911&theme=github_dark" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadarshad0911&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadarshad0911&theme=github_dark&utcOffset=5" height="180" />
 </p>
 
 <p align="center">
