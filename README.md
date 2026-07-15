@@ -4,7 +4,7 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/ahmadarshad0911">
-  <img width="100%" alt="Ahmad Arshad" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8260f,100:0c0a08&height=230&section=header&text=Ahmad%20Arshad&fontColor=f4ede1&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Web%20%C2%B7%20Backend%20%26%20QA&descAlignY=58&descSize=18&descColor=f4ede1&animation=fadeIn" />
+  <img width="100%" alt="Ahmad Arshad" src="https://capsule-render.vercel.app/api?type=waving&color=0:b8260f,100:0c0a08&height=230&section=header&text=Ahmad%20Arshad&fontColor=f4ede1&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Web%20%C2%B7%20Backend%20%26%20QA&descAlignY=58&descSize=18&descColor=f4ede1&animation=fadeIn&v=2" />
 </a>
 
 <p align="center">
