@@ -154,7 +154,11 @@ A deployed web app that reads a startup contract like senior counsel: upload →
 ### 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadarshad0911/ahmadarshad0911/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadarshad0911/ahmadarshad0911/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadarshad0911/ahmadarshad0911/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ahmadarshad0911/ahmadarshad0911/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
